@@ -77,6 +77,7 @@ Pillow==9.0.1
 pluggy==1.0.0
 prometheus-client==0.14.1
 prompt-toolkit==3.0.31
+protobuf==3.20.1
 psutil==5.9.2
 ptyprocess==0.7.0
 pure-eval==0.2.2
@@ -88,6 +89,7 @@ pycparser==2.21
 pycurl==7.43.0.6
 PyDispatcher==2.0.5
 Pygments==2.13.0
+PyMySQL==1.0.2
 pyparsing==3.0.9
 pyrsistent==0.18.1
 pytest==7.1.1

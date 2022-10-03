@@ -1,0 +1,1 @@
+query_all = "SELECT * FROM iphone_table"
