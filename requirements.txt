@@ -12,6 +12,7 @@ beautifulsoup4==4.11.1
 bkcharts==0.2
 bleach==5.0.1
 bokeh==2.4.3
+category-encoders==2.5.1.post0
 certifi==2022.5.18.1
 cffi==1.15.1
 charset-normalizer==2.1.1
